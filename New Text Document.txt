@@ -1,0 +1,34 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+*/Debug/
+*/Release/
+
+# Eclipse / CDT
+.metadata/
+.settings/
+*.launch
+RemoteSystemsTempFiles/
+.cproject.bak
+.project.bak
+
+# Build artifacts
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.lst
+
+# CubeMX / CubeIDE generated backups
+*~
+*.bak
+*.old
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
